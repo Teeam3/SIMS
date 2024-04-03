@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Core.Entities.Class" Collapsed="true">
+    <Position X="5.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQICAAAAAAAAAAAAAAgAAAQAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Entities\Class.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Core.Entities.Course" Collapsed="true">
+    <Position X="5.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQACAAAAAAEAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Course.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Core.Entities.Curriculum" Collapsed="true">
+    <Position X="7.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAICAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Entities\Curriculum.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Core.Entities.Faculty" Collapsed="true">
+    <Position X="3.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Entities\Faculty.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Core.Entities.Person" Collapsed="true">
+    <Position X="1.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAACAEAAAQAQAAAAIABACAAAAAgAAAAA=</HashCode>
+      <FileName>Entities\Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Core.Entities.Score" Collapsed="true">
+    <Position X="3.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAGAAAAQAAAgAAAAIAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Entities\Score.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Core.Entities.Student" Collapsed="true">
+    <Position X="1.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAgAAAIAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Core.Specification.ClassSpecification" Collapsed="true">
+    <Position X="15.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Specification\ClassSpecification.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Core.Specification.CourseSpecification" Collapsed="true">
+    <Position X="9.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Specification\CourseSpecification.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Core.Specification.CuriculumSpecification" Collapsed="true">
+    <Position X="10.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Specification\CuriculumSpecification.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Core.Specification.FacultySepcification" Collapsed="true">
+    <Position X="14.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Specification\FacultySepcification.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Core.Specification.ScoreSpecification" Collapsed="true">
+    <Position X="10.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Specification\ScoreSpecification.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Core.Specification.StudentSpecification" Collapsed="true">
+    <Position X="16.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Specification\StudentSpecification.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Core.Specification.BaseSpecification&lt;T&gt;" Collapsed="true">
+    <Position X="12.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAABEAAAAAAAAAAQAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Specification\BaseSpecification.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Core.Interfaces.IClassRepository" Collapsed="true">
+    <Position X="9.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IClassRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Core.Interfaces.ICourseRepository" Collapsed="true">
+    <Position X="10.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\ICourseRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Core.Interfaces.ICurriculumRepository" Collapsed="true">
+    <Position X="11.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\ICurriculumRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Core.Interfaces.IFacultyRepository" Collapsed="true">
+    <Position X="14" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IFacultyRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Core.Interfaces.IGenericRepository&lt;T&gt;" Collapsed="true">
+    <Position X="12" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAMAAAAAAAAAAAAAAAAABAAACAAAAAgAAAAAAIAEIAA=</HashCode>
+      <FileName>Interfaces\IGenericRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Core.Interfaces.IScoreRepository" Collapsed="true">
+    <Position X="15" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IScoreRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Core.Interfaces.IStudentRepository" Collapsed="true">
+    <Position X="14" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IStudentRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Core.Interfaces.IUnitOfWork" Collapsed="true">
+    <Position X="10" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAJAAAAAAAAAAAQAACAAAAAAQAAAAAAAAgAIAAAA=</HashCode>
+      <FileName>Interfaces\IUnitOfWork.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Core.Specification.ISpecification&lt;T&gt;" Collapsed="true">
+    <Position X="12.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Specification\ISpecification.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

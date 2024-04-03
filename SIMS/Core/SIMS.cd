@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Core.Entities.Class" Collapsed="true">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQICAAAAAABAAAAAAAgAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Class.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Core.Entities.Course" Collapsed="true">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQACAAAAAAEAAAgAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Course.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Core.Entities.Curriculum">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAICAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Entities\Curriculum.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Core.Entities.Faculty" Collapsed="true">
+    <Position X="8.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Entities\Faculty.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Core.Entities.Person" Collapsed="true">
+    <Position X="5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAACAEAAAQAQAAAAIAAACAAAAAgAAAAA=</HashCode>
+      <FileName>Entities\Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Core.Entities.Score">
+    <Position X="2.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAIAAQAAggAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Score.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Core.Entities.Student">
+    <Position X="5.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAgAAAoAAAAAAQAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Entities\Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
