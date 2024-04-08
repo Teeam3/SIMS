@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aSoimvAJIFd7P6SKsoQdeAMz3NTTUkEY1eHdjwdDC+NfEZoLkbuLNWqO4PLWUCi4zepHEsIUhjIM4RNpu71t8g==",
+  "dgSpecHash": "P/E0A+BmS05vDpRwxCOi7p44cE5HWTQ1wyz+ZtHxrUmFTAz/ePiGCFfNsFG6KopSzw5DHGxO4r+xB+dV4DANdA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\source\\repos\\SIMS\\SIMS\\SIMS.csproj",
+  "projectFilePath": "C:\\Users\\admin\\GitHub\\SIMS\\SIMS\\SIMS\\SIMS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

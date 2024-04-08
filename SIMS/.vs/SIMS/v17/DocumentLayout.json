@@ -1,13 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\SIMS\\",
+  "WorkspaceRootPath": "C:\\Users\\admin\\GitHub\\SIMS\\SIMS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BE9E1880-75E9-4051-A629-961553333591}|Core\\Core.csproj|c:\\users\\admin\\source\\repos\\sims\\core\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{89EF1FAB-D06D-4276-8BDE-8F6C171CD651}|SIMS\\SIMS.csproj|c:\\users\\admin\\github\\sims\\sims\\sims\\controllers\\curriculumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89EF1FAB-D06D-4276-8BDE-8F6C171CD651}|SIMS\\SIMS.csproj|solutionrelative:sims\\controllers\\curriculumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89EF1FAB-D06D-4276-8BDE-8F6C171CD651}|SIMS\\SIMS.csproj|c:\\users\\admin\\github\\sims\\sims\\sims\\controllers\\classcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89EF1FAB-D06D-4276-8BDE-8F6C171CD651}|SIMS\\SIMS.csproj|solutionrelative:sims\\controllers\\classcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9E1880-75E9-4051-A629-961553333591}|Core\\Core.csproj|c:\\users\\admin\\github\\sims\\sims\\core\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE9E1880-75E9-4051-A629-961553333591}|Core\\Core.csproj|solutionrelative:core\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99F60BD0-9603-4723-82BC-EB4189769FB7}|Infrastructure\\Infrastructure.csproj|C:\\Users\\admin\\source\\repos\\SIMS\\infrastructure\\implementation\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{99F60BD0-9603-4723-82BC-EB4189769FB7}|Infrastructure\\Infrastructure.csproj|C:\\Users\\admin\\GitHub\\SIMS\\SIMS\\infrastructure\\implementation\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99F60BD0-9603-4723-82BC-EB4189769FB7}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\implementation\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,8 +26,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CurriculumController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\GitHub\\SIMS\\SIMS\\SIMS\\Controllers\\CurriculumController.cs",
+              "RelativeDocumentMoniker": "SIMS\\Controllers\\CurriculumController.cs",
+              "ToolTip": "C:\\Users\\admin\\GitHub\\SIMS\\SIMS\\SIMS\\Controllers\\CurriculumController.cs",
+              "RelativeToolTip": "SIMS\\Controllers\\CurriculumController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAYwA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T00:39:53.304Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -39,10 +60,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ClassController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\GitHub\\SIMS\\SIMS\\SIMS\\Controllers\\ClassController.cs",
+              "RelativeDocumentMoniker": "SIMS\\Controllers\\ClassController.cs",
+              "ToolTip": "C:\\Users\\admin\\GitHub\\SIMS\\SIMS\\SIMS\\Controllers\\ClassController.cs",
+              "RelativeToolTip": "SIMS\\Controllers\\ClassController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T00:39:47.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\SIMS\\Infrastructure\\Implementation\\GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\GitHub\\SIMS\\SIMS\\Infrastructure\\Implementation\\GenericRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Implementation\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\SIMS\\Infrastructure\\Implementation\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\GitHub\\SIMS\\SIMS\\Infrastructure\\Implementation\\GenericRepository.cs",
               "RelativeToolTip": "Infrastructure\\Implementation\\GenericRepository.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAowBAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -50,11 +84,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\SIMS\\Core\\Interfaces\\IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\GitHub\\SIMS\\SIMS\\Core\\Interfaces\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "Core\\Interfaces\\IUnitOfWork.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\SIMS\\Core\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\admin\\GitHub\\SIMS\\SIMS\\Core\\Interfaces\\IUnitOfWork.cs",
               "RelativeToolTip": "Core\\Interfaces\\IUnitOfWork.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

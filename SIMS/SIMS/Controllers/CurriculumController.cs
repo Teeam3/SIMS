@@ -14,6 +14,22 @@ namespace SIMS.Controllers
     {
         private readonly IUnitOfWork _unitOfWork;
         private readonly IMapper _mapper;
+        public void Gets()
+        {
+
+        }
+        public void adds()
+        {
+
+        }
+        public void updates()
+        {
+
+        }
+        public void removes()
+        {
+
+        }
         public CurriculumController(IUnitOfWork unitOfWork, IMapper mapper)
         {
             _unitOfWork = unitOfWork;

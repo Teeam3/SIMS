@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fC4tzRLYXYmEkNBShl0CdDKLO7ukSEar4YhgaiXPbTZOvwE6HHOHOR/i65nkez9LRlTHkXxRt2v37IeSC32JBQ==",
+  "dgSpecHash": "njwl6UZaINlY4GfXAuGgYXsnrHNj29/Rh5aOQlRNuwzWmCJiRMWttRQDW/MRNXp0umNzkv51H2oCo7CzNDksQQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\source\\repos\\SIMS\\Core\\Core.csproj",
+  "projectFilePath": "C:\\Users\\admin\\GitHub\\SIMS\\SIMS\\Core\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
