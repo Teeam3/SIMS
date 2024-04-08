@@ -19,6 +19,22 @@ namespace SIMS.Controllers
             _unitOfWork = unitOfWork;
             _mappers = mapper;
         }
+        public void Gets()
+        {
+
+        }
+        public void adds()
+        {
+
+        }
+        public void updates()
+        {
+
+        }
+        public void removes()
+        {
+
+        }
 
         [HttpGet("id")]
         public async Task<ActionResult> GetById(int id)
